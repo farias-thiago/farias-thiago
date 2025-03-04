@@ -1,7 +1,7 @@
 # 🚀 Thiago Farias
 
 I am a **Data Engineer** with over 10 years of experience in developing solutions in **Cloud Azure Microsoft Fabric** (including **Data Factory**, **Azure Data Lake Storage**, **Synapse Analytics**, and **Azure Databricks**) and **AWS** (**S3**, **Redshift**, **Athena**, **Glue**, **Lambda**), as well as **Power BI** (**DAX**, **Dataflows**, and **Premium features**). I have a strong background in **database analysis** and **modeling**, with expertise in **Python**, **PySpark**, **SQL**, and **ETL tools**. My interests lie in **Data Engineering** and **BI** using cloud platforms like **Microsoft Azure** and **AWS**.
-
+---
 <p align="left">
   <a href="#">
     <img 
@@ -95,38 +95,3 @@ I am a **Data Engineer** with over 10 years of experience in developing solution
 </p>
 
 <br clear="both"/>
-
----
-
-### 📫 Let's Connect!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/fariasthiago/">
-    <img 
-      alt="LinkedIn" 
-      title="Connect on LinkedIn" 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-    />
-  </a>
-  <a href="https://github.com/farias-thiago">
-    <img 
-      alt="GitHub" 
-      title="Follow on GitHub" 
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
-    />
-  </a>
-  <a href="mailto:thiagofarias.ti@gmail.com">
-    <img 
-      alt="Email" 
-      title="Send me an email" 
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-    />
-  </a>
-  <a href="https://wa.me/5561996555060">
-    <img 
-      alt="WhatsApp" 
-      title="Chat on WhatsApp" 
-      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
-    />
-  </a>
-</p>   
