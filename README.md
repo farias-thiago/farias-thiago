@@ -1,7 +1,9 @@
 # 🚀 Thiago Farias
 
 I am a **Data Engineer** with over 10 years of experience in developing solutions in **Cloud Azure Microsoft Fabric** (including **Data Factory**, **Azure Data Lake Storage**, **Synapse Analytics**, and **Azure Databricks**) and **AWS** (**S3**, **Redshift**, **Athena**, **Glue**, **Lambda**), as well as **Power BI** (**DAX**, **Dataflows**, and **Premium features**). I have a strong background in **database analysis** and **modeling**, with expertise in **Python**, **PySpark**, **SQL**, and **ETL tools**. My interests lie in **Data Engineering** and **BI** using cloud platforms like **Microsoft Azure** and **AWS**.
+
 ---
+
 <p align="left">
   <a href="#">
     <img 
