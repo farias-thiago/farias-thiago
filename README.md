@@ -5,6 +5,14 @@ I am a **Data Engineer** with over 10 years of experience in developing solution
 ---
 
 <p align="left">
+   <a href="#"><img 
+    align="left" 
+    alt="Databricks" 
+    title="Databricks" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/databrickslogo-freelogovectors.net_.png"
+  /></a>
   <a href="#">
     <img 
     align="left" 
@@ -45,14 +53,6 @@ I am a **Data Engineer** with over 10 years of experience in developing solution
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
-  /></a>
-  <a href="#"><img 
-    align="left" 
-    alt="Databricks" 
-    title="Databricks" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/databrickslogo-freelogovectors.net_.png"
   /></a>
   <a href="#"><img 
     align="left" 
